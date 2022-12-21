@@ -16,16 +16,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-1 Lambda values: 
-	1 Lasso : 0.00001
-	2 RIdge: 0.1 
-2 Top 5 predictor variables
-	1 GrLivArea
-	2 OverallQual
-	3 BsmtFinSF1
-	4 TotalBsmtSF
-	5 MasVnrArea
-3 R Square square is simillar for both Ridge and Lasso Regression
+1. Lambda values: 
+	1. Lasso : 0.00001
+	2. RIdge: 0.1 
+2. Top 5 predictor variables
+	1. GrLivArea
+	2. OverallQual
+	3. BsmtFinSF1
+	4. TotalBsmtSF
+	5. MasVnrArea
+3. R Square square is simillar for both Ridge and Lasso Regression
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
